@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Arpit (Arr-pit)<br>📚 MS-CS at UT-Dallas<br>💡 Passionate Full-Stack Dev (Backend > Frontend)<br>🚀 6+ yrs academic, 1+ yr professional CS experience<br>🔍 Seeking Full-Time SDE roles from Jan 2024</p>
+<p align="left">👨‍💻 Arpit (Arr-pit)<br>📚 MS-CS at UT-Dallas<br>💡 Passionate Full-Stack Dev (Backend > Frontend)<br>🚀 6+ yrs academic, 1+ yr professional CS experience<br>🔍 Seeking Full-Time SDE roles from Jan 2024<br>🔥 Top Skills: Node, React, JS, Python, SQL</p>
 
 ###
 
