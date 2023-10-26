@@ -101,7 +101,7 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=singharpt&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=singharpt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
