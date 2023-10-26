@@ -101,7 +101,7 @@
 <br>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=singharpt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  ![streak graph](https://streak-stats.demolab.com?user=singharpt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
 </div>
 
-###
+##
